@@ -2,7 +2,7 @@
 
 # Description
 
-1. Prepare #telephone-keypad
+1. Prepare telephone-keypad
 
 2. Every key contains a combination of 3 characters/special characters and 1 number
 
@@ -11,6 +11,11 @@
 4. On long press of any key, a number should be added
 
 5. On different keypress, the new character should be added
+
 6. On delayed keypress of the same key, the new character should be added in the output string
+
+# Tips
+
+1. You can only use JQuery and core Javascript to complete the task
 
 
