@@ -18,4 +18,12 @@
 
 1. You can only use JQuery and core Javascript to complete the task
 
+# Acceptance Criteria
 
+1. All the written code should be clean, properly structured, and commented
+
+2. Functions and variable should be reusable
+
+3. All the code has to be submitted via the public GitHub repository 
+
+4. The test must be submitted in conveyed deadline
