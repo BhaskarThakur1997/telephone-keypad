@@ -2,7 +2,7 @@
 
 # Description
 
-1. Prepare # telephone-keypad
+1. Prepare #telephone-keypad
 
 2. Every key contains a combination of 3 characters/special characters and 1 number
 
